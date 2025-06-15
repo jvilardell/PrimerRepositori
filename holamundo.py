@@ -24,3 +24,4 @@ def merge(left, right):
     return result
 
 print (mergesort ([2, 1, 4,3,5,9,10,6]))
+print (mergesort ([300, 20, 304, 40, 2, 1, 9]))
