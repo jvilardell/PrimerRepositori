@@ -19,3 +19,4 @@ try:
         print(f"{numero} no es un número primo.")
 except ValueError:
     print("Por favor, introduce un número entero válido.")
+#mpl-2828
